@@ -1,15 +1,15 @@
 ## Hi human 👋
 
-😄 I am a recent Computer Science masters graduate from Boston University.
+😄 I am a recent Computer Science master's graduate from Boston University.
  
 I am currently exploring:
 - Linux development  
 - OS Dev  
 - Developing TUIs and terminal tools. Example [SimpleSpeedType](https://github.com/I-9028/SimpleSpeedType)
 
-🌱 **Research Interests:** Cybersecurity, Privacy preserving algorithms, Cryptography
+🌱 **Research Interests:** Cybersecurity, Privacy-preserving algorithms, Cryptography
 
-🎯 **Other Interests:** Anime, Numerical Sequnces, Number Theory, Reading Fiction
+🎯 **Other Interests:** Anime, Numerical Sequences, Number Theory, Reading Fiction
 
 Some more info about me below 👇👇👇
 
@@ -22,8 +22,8 @@ _Kudos to whoever knows the reference to my username_
 I am primarily looking to start a PhD in Computer Science, with a focus on systems, security, or cryptography.
 
 I am also open to:
-- Research assistant or internship roles in security, privacy, systems or related fields  
-- Software engineering, linux development roles that involve low level development, tools, or developer experience  
+- Research assistant or internship roles in security, privacy, systems, or related fields  
+- Software engineering, Linux development roles that involve low-level development, tools, or developer experience  
 
 If you think my interests align with your work, feel free to reach out via [email](mailto:prathamd_sec@proton.me)
 
